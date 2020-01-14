@@ -1,4 +1,4 @@
 # school-projects
-Projects from intro to cs & data structure
+Projects and practices from intro to cs & data structure
 * PhoneBook Application
 * Balanced Brackets - by using stack
